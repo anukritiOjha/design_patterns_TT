@@ -6,7 +6,7 @@ This project is using Selenium4 Maven TestNG Java
 Install Git : https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 ```sh
-git clone https://github.com/Raneesh02/Selenium4_POM_Basic.git
+git clone https://github.com/Raneesh02/design_patterns_jan_25.git
 ```
 
 ## Java Installation
